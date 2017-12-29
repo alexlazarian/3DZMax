@@ -13,11 +13,6 @@ AutoHotkey is a free, open-source custom scripting language for Microsoft Window
 
 *find out more about [AutoHotkey](https://en.wikipedia.org/wiki/AutoHotkey) on Wikipedia*
 
-## Additional
-
-Source Code is provided in a formats of .txt and .ahk
-
-
 ## License
 
 © Ladzies
