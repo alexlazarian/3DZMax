@@ -1,4 +1,4 @@
-# ZBrush-like_navigation_for_3dsMax
+# ZBrush-like navigation for 3dsMax
 
 For those who want to have ZBrush-like mouse navigations for 3dsMax, I got a solution for you. This only works on Windows. Here's how you setup.
 
