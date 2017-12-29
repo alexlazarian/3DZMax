@@ -15,6 +15,6 @@ AutoHotkey is a free, open-source custom scripting language for Microsoft Window
 
 ## License
 
-© Vladislav Sagdiyev
+© Vladislav Savchenko a.k.a Ladzies
 
 Licensed under the MIT License.
