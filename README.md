@@ -4,8 +4,9 @@ For those who want to have ZBrush-like mouse navigations for 3dsMax, I got a sol
 
 * Download [AutoHotkey](https://autohotkey.com/) 
 
-# What is [AutoHotkey](https://en.wikipedia.org/wiki/AutoHotkey) (from Wikipedia)
+## What is AutoHotkey
 AutoHotkey is a free, open-source custom scripting language for Microsoft Windows, initially aimed at providing easy keyboard shortcuts or hotkeys, fast macro-creation and software automation that allows users of most levels of computer skill to automate repetitive tasks in any Windows application.
+*find out more about [AutoHotkey](https://en.wikipedia.org/wiki/AutoHotkey) on Wikipedia*
 
 ## License
 
